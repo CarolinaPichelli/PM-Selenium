@@ -6,7 +6,7 @@
 
 ### 👥 Autoras & Contexto
 
-* **Estudantes:** Carolina Pichelli Souza & Heloísa Pichelli Souza
+* **Estudantes:** Carolina Pichelli Souza, Heloísa Pichelli Souza & Victor Hugo Gonçalves
 * **Curso:** Análise e Desenvolvimento de Sistemas (AMS 2)
 * **Matéria:** Programação Multiplataforma
 
